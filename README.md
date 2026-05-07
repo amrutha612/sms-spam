@@ -18,25 +18,32 @@ NLP preprocessing
 Text mining
 Machine learning model training
 Deep learning experiments
+
 📂 Dataset Information
 File Name: smsspamdataset.csv
+
 Format: CSV
+
 Total Messages: 5575+
+
 Labels:
-ham
-spam
+  ham
+  spam
+  
 🛠 Technologies Used
 Python
 Pandas
 NumPy
 Scikit-learn
 NLP Techniques
+
 📊 Possible Applications
 SMS Spam Detection System
 Email/SMS Filtering
 Text Classification
 Sentiment & NLP Experiments
 Deep Learning for Text Analysis
+
 🔍 Example Workflow
 Load dataset
 Data preprocessing
@@ -44,6 +51,7 @@ Text cleaning
 Feature extraction (TF-IDF / CountVectorizer)
 Model training
 Prediction & evaluation
+
 🚀 Future Improvements
 Build a complete spam classifier model
 Add deep learning models (LSTM/BERT)
